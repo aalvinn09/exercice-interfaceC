@@ -1,0 +1,15 @@
+C:\Users\alvin\BTS-SIO2\exercice-interfaceC\bin\Debug\net10.0\exercice-interfaceC.exe
+C:\Users\alvin\BTS-SIO2\exercice-interfaceC\bin\Debug\net10.0\exercice-interfaceC.deps.json
+C:\Users\alvin\BTS-SIO2\exercice-interfaceC\bin\Debug\net10.0\exercice-interfaceC.runtimeconfig.json
+C:\Users\alvin\BTS-SIO2\exercice-interfaceC\bin\Debug\net10.0\exercice-interfaceC.dll
+C:\Users\alvin\BTS-SIO2\exercice-interfaceC\bin\Debug\net10.0\exercice-interfaceC.pdb
+C:\Users\alvin\BTS-SIO2\exercice-interfaceC\obj\Debug\net10.0\exercice-interfaceC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvin\BTS-SIO2\exercice-interfaceC\obj\Debug\net10.0\exercice-interfaceC.AssemblyInfoInputs.cache
+C:\Users\alvin\BTS-SIO2\exercice-interfaceC\obj\Debug\net10.0\exercice-interfaceC.AssemblyInfo.cs
+C:\Users\alvin\BTS-SIO2\exercice-interfaceC\obj\Debug\net10.0\exercice-interfaceC.csproj.CoreCompileInputs.cache
+C:\Users\alvin\BTS-SIO2\exercice-interfaceC\obj\Debug\net10.0\exercice-interfaceC.sourcelink.json
+C:\Users\alvin\BTS-SIO2\exercice-interfaceC\obj\Debug\net10.0\exercice-interfaceC.dll
+C:\Users\alvin\BTS-SIO2\exercice-interfaceC\obj\Debug\net10.0\refint\exercice-interfaceC.dll
+C:\Users\alvin\BTS-SIO2\exercice-interfaceC\obj\Debug\net10.0\exercice-interfaceC.pdb
+C:\Users\alvin\BTS-SIO2\exercice-interfaceC\obj\Debug\net10.0\exercice-interfaceC.genruntimeconfig.cache
+C:\Users\alvin\BTS-SIO2\exercice-interfaceC\obj\Debug\net10.0\ref\exercice-interfaceC.dll

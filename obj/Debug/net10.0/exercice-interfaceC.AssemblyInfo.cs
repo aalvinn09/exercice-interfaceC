@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("exercice-interfaceC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+340e0c42ce463535aae7528480e912bbf9ed49bb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6cfc67441b5cb2ac806beb93012f67582867174")]
 [assembly: System.Reflection.AssemblyProductAttribute("exercice-interfaceC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("exercice-interfaceC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
